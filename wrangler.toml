@@ -1,0 +1,6 @@
+name = "thgttg-cloudflare-worker"
+type = "rust"
+account_id = "114c8066a703b106326275ea24858a09"
+workers_dev = true
+route = ""
+zone_id = ""
